@@ -62,7 +62,8 @@ httpd = HTTPServer(server_address, HelloHandler)
 httpd.serve_forever()
 ```
 # OUTPUT:
-![OUTPUT](./Image/output_ws.png)
+![OUTPUT](./Image/Output.png)
+
 # RESULT:
 
 The program is executed succesfully
